@@ -33,3 +33,4 @@ Nesta aula vemos como utilizar o Amazon Aurora, banco de dados relacional da AWS
 ### Referências
 
 - Documentação do Aurora - https://aws.amazon.com/pt/rds/aurora
+- Documentação do Sequelize - https://sequelize.org/master/
